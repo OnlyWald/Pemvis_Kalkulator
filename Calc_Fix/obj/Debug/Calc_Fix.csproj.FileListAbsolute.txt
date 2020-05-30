@@ -1,0 +1,9 @@
+C:\Users\Wald\source\repos\Calc_Fix\Calc_Fix\bin\Debug\Calc_Fix.exe.config
+C:\Users\Wald\source\repos\Calc_Fix\Calc_Fix\bin\Debug\Calc_Fix.exe
+C:\Users\Wald\source\repos\Calc_Fix\Calc_Fix\bin\Debug\Calc_Fix.pdb
+C:\Users\Wald\source\repos\Calc_Fix\Calc_Fix\obj\Debug\Calc_Fix.csprojAssemblyReference.cache
+C:\Users\Wald\source\repos\Calc_Fix\Calc_Fix\obj\Debug\Calc_Fix.Form1.resources
+C:\Users\Wald\source\repos\Calc_Fix\Calc_Fix\obj\Debug\Calc_Fix.Properties.Resources.resources
+C:\Users\Wald\source\repos\Calc_Fix\Calc_Fix\obj\Debug\Calc_Fix.csproj.GenerateResource.cache
+C:\Users\Wald\source\repos\Calc_Fix\Calc_Fix\obj\Debug\Calc_Fix.exe
+C:\Users\Wald\source\repos\Calc_Fix\Calc_Fix\obj\Debug\Calc_Fix.pdb
